@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-06-30T01:21:04.284Z</updated>
+  <updated>2016-06-30T01:46:19.247Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试1</title>
+    <link href="http://yoursite.com/2016/06/30/my-new-post/"/>
+    <id>http://yoursite.com/2016/06/30/my-new-post/</id>
+    <published>2016-06-30T01:44:03.000Z</published>
+    <updated>2016-06-30T01:46:19.247Z</updated>
+    
+    <content type="html">&lt;p&gt;总结&lt;br&gt;到现在为止，我们已经搭建起博客，并能写文章了，一个具备基本功能的博客已经实现了。由于本文是博主工作之余写的，比较仓促，难免有错误，欢迎指正。后面的文章将介绍本博客使用到的一些实用的功能，如访问次数，新浪微博秀，RSS，多说评论等，喜欢这些功能的朋友可以继续跟随。&lt;/p&gt;
+&lt;p&gt;本文非常详细的介绍了搭建过程，但是如果您还是在搭建的过程中碰到了问题，欢迎您在下面留言探讨。亦或是您觉得博主码文辛苦，想评论鼓励，博主也表示欢迎。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;总结&lt;br&gt;到现在为止，我们已经搭建起博客，并能写文章了，一个具备基本功能的博客已经实现了。由于本文是博主工作之余写的，比较仓促，难免有错误，欢迎指正。后面的文章将介绍本博客使用到的一些实用的功能，如访问次数，新浪微博秀，RSS，多说评论等，喜欢这些功能的朋友可以继续跟随。
+    
+    </summary>
+    
+    
+      <category term="博客，文章" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
