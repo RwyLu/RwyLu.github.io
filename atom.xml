@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://rwylu.com/"/>
   <updated>2016-06-30T01:46:19.247Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://rwylu.com/</id>
   
   <author>
     <name>RwyLu</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>测试1</title>
-    <link href="http://yoursite.com/2016/06/30/my-new-post/"/>
-    <id>http://yoursite.com/2016/06/30/my-new-post/</id>
+    <link href="http://rwylu.com/2016/06/30/my-new-post/"/>
+    <id>http://rwylu.com/2016/06/30/my-new-post/</id>
     <published>2016-06-30T01:44:03.000Z</published>
     <updated>2016-06-30T01:46:19.247Z</updated>
     
@@ -33,7 +33,7 @@
     </summary>
     
     
-      <category term="博客，文章" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+      <category term="博客，文章" scheme="http://rwylu.com/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
